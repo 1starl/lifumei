@@ -3,7 +3,7 @@ package filedo;
 import java.io.*;
 
 /**
- * @author ：qjh
+ * @author ：lfm
  * date:2019-12-16
  * descrition:读取文件内容
  */
